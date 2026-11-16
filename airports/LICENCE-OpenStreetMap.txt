@@ -1,0 +1,6 @@
+The airport maps in this folder are extracts of OpenStreetMap data.
+(c) OpenStreetMap contributors. Available under the Open Database Licence (ODbL) 1.0:
+https://www.openstreetmap.org/copyright
+
+Anything made from these files has to keep this credit, and a changed or combined database has to be shared under the same
+licence. The files are made by generate_airport_maps.py of https://github.com/martijnhoogendoorn/microflightradar
