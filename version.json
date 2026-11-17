@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "name": "1.0.3",
+  "version": 5,
+  "name": "1.0.5",
   "file": "firmware.bin",
-  "size": 5928800,
-  "md5": "e82ada07ed63313436f6f858e22da824",
-  "notes": "ADDED FLIGHT SEARCH FOR TRACKING SEE USE"
+  "size": 6118304,
+  "md5": "51bb1ea422a9bce265fa0fd36a6c1e24",
+  "notes": ""
 }
