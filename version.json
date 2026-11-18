@@ -1,8 +1,8 @@
 {
-  "version": 9,
-  "name": "1.0.9",
+  "version": 10,
+  "name": "1.0.10",
   "file": "firmware.bin",
-  "size": 6132352,
-  "md5": "b154750b892f32c460577b0e76c0e47e",
+  "size": 6194640,
+  "md5": "b6f215455acfb64eef911344341b3bf7",
   "notes": ""
 }
